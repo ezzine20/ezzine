@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    padding-bottom: 15px;
+
+
+}
+
+.back{
+    padding: 50px;
+    background-color: grey;
+   width: 300px;
+   border: solid black 5px;
+   padding-top: 10px;
+   padding-bottom: 15px;
+}
+#style1{
+    background-color: peachpuff;
+    border:solid 3px black;
+    margin: -30px -50px 45px 25px;
+    font-size: 25px;
+    float: right;
+    padding-bottom: 10px;
+   
+}
+#style12{
+    background-color: brown;
+    border:solid 3px black;
+    margin: -30px -50px 45px 25px;
+    font-size: 25px;
+    float: right;
+    padding-bottom: 10px;
+} 
+.back2{
+    padding: 50px;
+    background-color: grey;
+   width: 300px;
+   border: solid black 5px;
+   padding-top: 10px;
+   padding-bottom: 15px;
+}
